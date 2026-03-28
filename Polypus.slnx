@@ -1,2 +1,9 @@
 <Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/WebApi/">
+    <Project Path="src/WebApi/Polypus.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/src/WebUI/">
+    <Project Path="src/WebUI/Polypus.WebUI.csproj" />
+  </Folder>
 </Solution>
